@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+body {
+  overflow-x: hidden;
+  background-image: url('./assets/body.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
